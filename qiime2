@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QIIME2 View</title>
+</head>
+<body>
+    <h1>Visualizzazione QIIME2</h1>
+    <iframe src="https://view.qiime2.org/visualization/?src=https://github.com/your-repo/path-to-file.qzv" width="800" height="600"></iframe>
+</body>
+</html>
